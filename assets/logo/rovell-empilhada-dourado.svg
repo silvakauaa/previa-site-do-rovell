@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 310 152" role="img" aria-label="Rovell Personal Trainer">
+  <defs>
+    <clipPath id="ic-v"><rect width="64" height="46"/></clipPath>
+    <clipPath id="cap-v"><rect x="-2" y="0" width="314" height="40"/></clipPath>
+  </defs>
+  <g transform="translate(115 0) scale(1.25)">
+    <circle cx="32" cy="32" r="28.5" fill="none" stroke="#d4a54a" stroke-width="4"/>
+    <g clip-path="url(#ic-v)" fill="none" stroke="#f2f5fa" stroke-width="6" stroke-linejoin="miter">
+      <path d="M23 46V19H36Q43.5 19 43.5 26V26.5Q43.5 33 36 33H23M34 33L46 47"/>
+    </g>
+  </g>
+  <g transform="translate(0 112)"><g clip-path="url(#cap-v)" fill="none" stroke="#f2f5fa" stroke-width="7" stroke-linejoin="miter">
+    <path d="M3.5 40V3.5H33Q42.5 3.5 42.5 12.5V14Q42.5 23 33 23H3.5M25 23L45 42"/>
+    <rect x="57.5" y="3.5" width="39" height="33" rx="9"/>
+    <path d="M108 -2L130 41L152 -2"/>
+    <path d="M204 3.5H165.5V36.5H204M165.5 20H198"/>
+    <path d="M219.5 0V36.5H256"/>
+    <path d="M273.5 0V36.5H310"/>
+  </g></g>
+</svg>

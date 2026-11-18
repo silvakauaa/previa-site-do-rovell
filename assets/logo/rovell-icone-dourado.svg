@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Rovell">
+  <defs>
+    <clipPath id="ic-i"><rect width="64" height="46"/></clipPath>
+    <clipPath id="cap-i"><rect x="-2" y="0" width="314" height="40"/></clipPath>
+  </defs>
+  <g>
+    <circle cx="32" cy="32" r="28.5" fill="none" stroke="#d4a54a" stroke-width="4"/>
+    <g clip-path="url(#ic-i)" fill="none" stroke="#f2f5fa" stroke-width="6" stroke-linejoin="miter">
+      <path d="M23 46V19H36Q43.5 19 43.5 26V26.5Q43.5 33 36 33H23M34 33L46 47"/>
+    </g>
+  </g>
+</svg>

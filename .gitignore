@@ -1,0 +1,24 @@
+# Lista branca: só os arquivos do site vão para o GitHub/Netlify.
+# Áudios, transcrições, PDF, prints, fotos originais, versão React e
+# rascunhos de logo ficam fora, de propósito.
+/*
+!/.gitignore
+!/README.md
+!/index.html
+!/styles.css
+!/script.js
+!/robots.txt
+!/sitemap.xml
+
+!/assets/
+/assets/*
+!/assets/og-image.jpg
+!/assets/palco/
+
+!/assets/logo/
+/assets/logo/*
+!/assets/logo/favicon.svg
+!/assets/logo/apple-touch-icon.png
+!/assets/logo/rovell-horizontal-dourado.svg
+!/assets/logo/rovell-empilhada-dourado.svg
+!/assets/logo/rovell-icone-dourado.svg

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ⚠️ Trocar https://www.SEU-DOMINIO.com.br/ pelo domínio real antes de publicar -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.SEU-DOMINIO.com.br/</loc>
+    <lastmod>2026-11-18</lastmod>
+    <image:image><image:loc>https://www.SEU-DOMINIO.com.br/assets/palco/medalha-fepafit.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.SEU-DOMINIO.com.br/assets/palco/palco-pose.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.SEU-DOMINIO.com.br/assets/palco/palco-duelo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.SEU-DOMINIO.com.br/assets/palco/medalhas.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.SEU-DOMINIO.com.br/assets/palco/palco-34.jpg</image:loc></image:image>
+  </url>
+</urlset>
